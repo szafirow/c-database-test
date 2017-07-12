@@ -1,0 +1,11 @@
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\bin\Debug\Baza2.exe.config
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\bin\Debug\Baza2.exe
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\bin\Debug\Baza2.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.Form1.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.exe
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.Form2.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Baza2\Baza2\obj\Debug\Baza2.Form3.resources
